@@ -120,12 +120,8 @@ public class GroceryList implements NodeList {
 
     }
 
-    @Override
-    public ListItem searchItem(ListItem item) {
-        if( item != null) {
+ 
 
-        }
-        return null;
-    }
+    
     
 }

@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) throws Exception {
-        GroceryList myList = new GroceryList();
+        BinarySearchTree myList = new BinarySearchTree();
       
       
         myList.addItem(new Grocery("Eggs"));
@@ -14,23 +14,24 @@ public class Main {
         myList.addItem(new Grocery("Vegetables"));
         myList.addItem(new Grocery("Oranges"));
         myList.addItem(new Grocery("Banana"));
+        
         myList.traverse();
   
-        myList.removeItem(new Grocery("Eggs"));
-        myList.removeItem(new Grocery("Banana"));
-        myList.removeItem(new Grocery("Vegetables"));
-        myList.removeItem(new Grocery("Tofu"));
-        myList.traverse();      
-        myList.removeItem(new Grocery("Chicken"));
-        myList.removeItem(new Grocery("Salmon"));
-        myList.removeItem(new Grocery("Oranges"));
-        myList.removeItem(new Grocery("Pineapple"));
-        myList.traverse();        
-        myList.removeItem(new Grocery("Beef"));
-        myList.removeItem(new Grocery("Milk"));
-        myList.removeItem(new Grocery("Eggs"));
-        myList.traverse();        
-        myList.removeItem(new Grocery("Noodles"));
+        // myList.removeItem(new Grocery("Eggs"));
+        // myList.removeItem(new Grocery("Banana"));
+        // myList.removeItem(new Grocery("Vegetables"));
+        // myList.removeItem(new Grocery("Tofu"));
+        // myList.traverse();      
+        // myList.removeItem(new Grocery("Chicken"));
+        // myList.removeItem(new Grocery("Salmon"));
+        // myList.removeItem(new Grocery("Oranges"));
+        // myList.removeItem(new Grocery("Pineapple"));
+        // myList.traverse();        
+        // myList.removeItem(new Grocery("Beef"));
+        // myList.removeItem(new Grocery("Milk"));
+        // myList.removeItem(new Grocery("Eggs"));
+        // myList.traverse();        
+        // myList.removeItem(new Grocery("Noodles"));
      
     }
 }
