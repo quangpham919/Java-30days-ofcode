@@ -34,5 +34,11 @@ public abstract class ListItem {
         return value;
     }
 
+    /**
+     * @return String return the value
+     */
+    public void setValue(Object value) {
+        this.value = value;
+    }
   
 }
