@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AbstractClassChallenge/AbstractClassChallenge.iml" filepath="$PROJECT_DIR$/AbstractClassChallenge/AbstractClassChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayChallenge/ArrayChallenge.iml" filepath="$PROJECT_DIR$/ArrayChallenge/ArrayChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BankApplication/BankApplication.iml" filepath="$PROJECT_DIR$/BankApplication/BankApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompositionProject/CompositionProject.iml" filepath="$PROJECT_DIR$/CompositionProject/CompositionProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GenericsChallenge/GenericsChallenge.iml" filepath="$PROJECT_DIR$/GenericsChallenge/GenericsChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InnerClassChallenge/InnerClassChallenge.iml" filepath="$PROJECT_DIR$/InnerClassChallenge/InnerClassChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceChallenge/InterfaceChallenge.iml" filepath="$PROJECT_DIR$/InterfaceChallenge/InterfaceChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-30days-ofcode.iml" filepath="$PROJECT_DIR$/.idea/Java-30days-ofcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MusicPlayerApp/MusicPlayerApp.iml" filepath="$PROJECT_DIR$/MusicPlayerApp/MusicPlayerApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPChallenge/OOPChallenge.iml" filepath="$PROJECT_DIR$/OOPChallenge/OOPChallenge.iml" />
+    </modules>
+  </component>
+</project>
