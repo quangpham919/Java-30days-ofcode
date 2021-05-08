@@ -35,8 +35,15 @@ public class Basket {
         int inBasket = list.getOrDefault(item,0);
         if ((item != null) && (quantity > 0) && (quantity <= inBasket) && (inBasket > 0) ) {
             inBasket = inBasket - quantity;
-            list.put(item, inBasket );
-            return quantity;
+            if(inBasket > 0) {
+                list.put(item, inBasket);
+                return quantity;
+
+            }
+            else if (inBasket == 0) {
+                list.remove(item);
+                return quantity;
+            }
         }
         return 0;
     }
